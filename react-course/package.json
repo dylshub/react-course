@@ -1,0 +1,17 @@
+{
+  "name": "npm",
+  "version": "0.0.1",
+  "description": "Creando mi primer npm de prueba",
+  "main": "npm.js",
+  "type": "module",
+  "scripts": {
+    "ejecutar": "node npm.js"
+  },
+  "keywords": [
+    "first",
+    "project",
+    "nodejs"
+  ],
+  "author": "Dylan Rodas",
+  "license": "ISC"
+}
